@@ -12,7 +12,7 @@ SoundMatch is an advanced music recommendation system that leverages the power o
 
 ### 📋 Project Overview
 
-This music recommendation system aims to analyze the most played songs on Spotify in 2024 and provide insights into popular music trends. Using data exploration (EDA), visualization, and data modeling techniques such as PCA and clustering, we can understand the factors that influence a song's popularity.
+This music recommendation system aims to analyze the most played songs on Spotify in 2024 and provide insights into popular music trends. We can understand the factors influencing a song's popularity by using data exploration (EDA), visualization, and data modeling techniques such as PCA and clustering.
 
 The system implements:
 - Comprehensive data exploration and visualization
@@ -117,10 +117,6 @@ The SoundMatch system successfully demonstrates:
 
 - Mutiara Shabrina
 - Muhammad Hasan Fadhlillah
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ---
 ⭐ Don't forget to star this repo if you find it helpful!
