@@ -35,6 +35,8 @@ The dataset used in this project comes from Kaggle: "Most Streamed Spotify Songs
 - Release date information
 - Platform-specific popularity scores
 
+Link Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
+
 ### 🎯 Key Features
 
 - **Hybrid Recommendation Engine**: Combines collaborative and content-based filtering
