@@ -109,10 +109,6 @@ The SoundMatch system successfully demonstrates:
 - Advanced visualization features
 - API development for third-party integration
 
-## 🏷️ Tags
-
-#MusicRecommendation #SpotifyAPI #MachineLearning #DataScience #Python #AI #DataAnalysis #MusicTech #Spotify #RecommenderSystem #DataVisualization #TikTok #YouTube #CrossPlatform #Clustering #KMeans #CosineSimilarity #PCA #RandomForest #DataEngineering
-
 ## 👥 Contributors
 
 - Mutiara Shabrina
